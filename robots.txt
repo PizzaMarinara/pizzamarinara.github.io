@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://efantini.dev/sitemap-index.xml
+Host: https://efantini.dev
